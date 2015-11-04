@@ -24,7 +24,7 @@ public class UserInterface {
 	 * Prints a welcome message
 	 */
 	public void welcome() {
-		System.out.println("Welcome to memory!");
+		System.out.println("Welcome to memory branch!");
 		System.out.println("Match 8 sets of cards! \n");
 	}
 
